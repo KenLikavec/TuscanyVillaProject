@@ -1,0 +1,77 @@
+﻿body {
+}
+#webTitle{
+    text-align:center;
+    background-color: #D0D2D0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 3px;      
+}
+
+#mainTitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+}
+
+#secondTitle{
+    margin-bottom: 1px;
+    font-family: 'Allura', cursive;
+    font-size: 50px;
+    position:relative;
+    top: -30px;
+}
+
+#bigPicture{
+    position: relative;
+    left: -150px;
+    top: -15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    
+}
+#mapPicture{
+    position: relative;
+    top: -15px;
+    right: -60px;
+    height: 372px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+#rowTwo{
+    position: relative;
+    top: -15px;
+    width: 1195px;
+}
+
+#rowThree{
+    position: relative;
+    top: -15px;
+    width: 1195px;
+}
+#rowFour{
+    position: relative;
+    top: -15px;
+    width: 1195px;
+}
+#rentVillaCell1{
+    position: relative;
+    left: -87px;
+}
+
+#rentVillaCell2{
+    position: relative;
+    left: -51px;
+}
+
+#rentVillaCell3{
+    position: relative;
+    right: -49px;
+}
+#rentVillaCell4{
+    position:relative;
+    left: -86px;
+}
